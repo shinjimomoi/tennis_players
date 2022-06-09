@@ -1,0 +1,2 @@
+class PlayerSkillsController < ApplicationController
+end
